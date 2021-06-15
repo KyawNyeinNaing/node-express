@@ -1,0 +1,7 @@
+@baseUrl = http://localhost:3000
+
+###
+GET {{baseUrl}}/api/members HTTP/1.1
+
+###
+GET {{baseUrl}}/api/members/3 HTTP/1.1

@@ -1,0 +1,19 @@
+res.send() ==> send
+res.sendFile() ==> path join html file
+
+app.use(express.static) ==> include middleware
+
+app.get
+
+
+1) Tell me about yourself?
+2) What are your strength/weakness?
+3) What attracted you to our company?
+4) Why do you want to work here?
+5) What have been your achievements?
+) What did you like or dislike about your last job?
+) What are your goals in the next 5 years?
+) What do you think we should do differently?
+) What business challenge have you faced and how did you overcome it?
+) What can you contribute to the job and our company?
+) Do you have any questions?
